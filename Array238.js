@@ -19,7 +19,7 @@ var productExceptSelf = function(nums) {
     return answer;
 };
 
-// console.log(productExceptSelf([1,2,3,4]));
+console.log(productExceptSelf([1,2,3,4,5]));
 // console.log(productExceptSelf([-1,1,0,-3,3]));
 
 // Input: nums = [1,2,3,4]
